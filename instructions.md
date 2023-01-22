@@ -37,3 +37,26 @@
 2. `git commit -m "a message"` => Saves the change
 3. `git push` => Syncs the change with GitHub
 
+### Things to practice
+
+1. Create a repo (e.g. a website)
+2. Create a branch (e.g. `task-1`)
+3. Add files, modify files, delete files
+4. Commit changes
+5. Push changes
+6. Raise pull requests, merge pull requests
+
+**Take the following scenario:** 
+* You are an employee asked to "make a website for clothing". 
+* Go and create the clothing website repo. 
+* You are given a first task to create a "homepage". 
+* Create a branch for your new task and add a "homepage.txt". 
+* Push the changes and open a pull request. 
+* Comment your own pull request as your "colleague", who asks you to add an image to the homepage.
+* Add a file "image.txt" and update the "homepage.txt" content. 
+* Commit and push this change. 
+* Review your pull request. 
+* Approve the pull request. 
+* Merge the pull request. 
+ 
+Repeat the above until you feel more comfortable! 
